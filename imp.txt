@@ -1,0 +1,28 @@
+{
+  "liver": "* GRADE I FATTY LIVER.",
+  "uterus": "*BULKY UTERUS WITH HETEROGENEOUS ECHOTEXTURE. *HYPOECHOIC LESION IN ANTERIOR MYOMETRIUM OF UTERUS - LIKELY FIBROID.",
+  "residual": "- For MRI pelvis / clinical correlation."
+}
+
+
+[
+  {
+    "Organ": "liver",
+    "Finding": "* GRADE I FATTY LIVER.",
+    "ColorCode": "YELLOW"
+  },
+  {
+    "Organ": "uterus",
+    "Finding": "*BULKY UTERUS WITH HETEROGENEOUS ECHOTEXTURE. *HYPOECHOIC LESION IN ANTERIOR MYOMETRIUM OF UTERUS - LIKELY FIBROID.",
+    "ColorCode": "YELLOW"
+  },
+  {
+    "Organ": "residual",
+    "Finding": "- For MRI pelvis / clinical correlation.",
+    "ColorCode": "GREEN"
+  }
+]
+
+
+
+try with categories(origial)
